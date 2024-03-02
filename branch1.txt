@@ -1,0 +1,5 @@
+branch1 file
+deepak branch1
+changes from local repo
+deepak branch1 
+edit from remote repo
